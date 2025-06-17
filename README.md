@@ -17,3 +17,7 @@ npm create vite@latest
 - cd 01vitereact
 - npm install (as node_modules package doesn't come during setup)
 - npm run dev
+
+### React Fiber
+
+- https://github.com/acdlite/react-fiber-architecture
